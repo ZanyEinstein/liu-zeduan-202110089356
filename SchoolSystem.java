@@ -2,7 +2,7 @@ package test;
 
 import java.util.ArrayList;
 
-public class SchoolSystem implements IParams,ISignUp{ //this
+public class SchoolSystem implements IParams,ISignUp{ 
 
 	int big = 0, medium = 0,small = 0;//variate
 	SchoolSystem (Integer big, Integer medium, Integer small){
